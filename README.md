@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @melisozer
 - 👀 I’m interested in AI and art projects made using AI
-- 🌱 I’m currently studyin Information Engineering at University of Padova
+- 🌱 I’m currently studying Information Engineering at University of Padova
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me melsozerr@gmail.com 
 - 😄 Pronouns: she/her
